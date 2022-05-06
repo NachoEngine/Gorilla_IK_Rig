@@ -14,7 +14,3 @@ This Blender file includes:
 * Lava Particle Emitter
 * Customizable Player Colors
 * Custom Shader to easily swap between player skins
-### Offical Gorilla Tag Player Model!
-![alt text][logo]
-
-[logo]: https://user-images.githubusercontent.com/65086429/166581499-b7e80db5-93e3-4442-86fc-4f48b6f29cce.png
