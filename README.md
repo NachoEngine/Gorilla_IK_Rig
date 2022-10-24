@@ -10,8 +10,8 @@ This Blender file includes:
 * Customizable Player Colors
 * Custom Shader to easily swap between game mode textures
 
-#Note: NOT USED FOR PLAYERMODEL!!1!
-use this instead:
+### Not for playermodel rigging
+use this instead:https://github.com/NachoEngine/GorillaPlayerModelModProject-Master/blob/main/Assets/PlayerMod_RiggingTemplate.blend
 
 ### Custom Gorilla Tag Shader group node
 ![Screenshot 2022-07-06 005333](https://user-images.githubusercontent.com/65086429/177499113-b2784d39-6f56-47f2-90ed-04bada6e5888.png)
