@@ -1,11 +1,11 @@
 # GorillaTag-Nacho-IK-Blender-Rig
 ### Summary
 
-Made in Blender Version: 3.1.2
+Made in Blender
 
 This Blender file includes:
 * Gorilla Tag Player Model
-* Gorilla Tag Player Textures (Fur, Lava, Rock, Ice)
+* Gorilla Tag Player Textures (Fur, Lava, Rock, Ice) (New updated textures)
 * Custom Ik Armature Controller (Inverse Kinematics)
 * Customizable Player Colors
 * Custom Shader to easily swap between game mode textures
@@ -14,6 +14,7 @@ This Blender file includes:
 use this instead: [PlayerModel Rig Template.blend]
 
 ### Custom Gorilla Tag Shader group node
-![Screenshot 2022-07-06 005333](https://user-images.githubusercontent.com/65086429/177499113-b2784d39-6f56-47f2-90ed-04bada6e5888.png)
+![NewGorillaTagRig](https://github.com/NachoEngine/GorillaTag-Player-IK-Blender-Rig/assets/65086429/b5ce7e90-79ae-403a-8cd3-bfbc84cf0b8e)
 
 [PlayerModel Rig Template.blend]: https://github.com/NachoEngine/GorillaPlayerModelModProject-Master/blob/main/Assets/PlayerMod_RiggingTemplate.blend
+
