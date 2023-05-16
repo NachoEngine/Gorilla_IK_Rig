@@ -1,6 +1,8 @@
 # GorillaTag-Nacho-IK-Blender-Rig
 ### Summary
 
+![NewGorillaTagRig](https://github.com/NachoEngine/GorillaTag-Player-IK-Blender-Rig/assets/65086429/b5ce7e90-79ae-403a-8cd3-bfbc84cf0b8e)
+
 Made in Blender 3.5.1
 
 This Blender file includes:
@@ -13,8 +15,7 @@ This Blender file includes:
 ### Not for playermodel rigging
 use this instead: [PlayerModel Rig Template.blend]
 
-### Custom Gorilla Tag Shader group node
-![NewGorillaTagRig](https://github.com/NachoEngine/GorillaTag-Player-IK-Blender-Rig/assets/65086429/b5ce7e90-79ae-403a-8cd3-bfbc84cf0b8e)
+
 
 [PlayerModel Rig Template.blend]: https://github.com/NachoEngine/GorillaPlayerModelModProject-Master/blob/main/Assets/PlayerMod_RiggingTemplate.blend
 
