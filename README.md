@@ -1,7 +1,7 @@
 # GorillaTag-Nacho-IK-Blender-Rig
 ### Summary
 
-Made in Blender
+Made in Blender 3.5.1
 
 This Blender file includes:
 * Gorilla Tag Player Model
