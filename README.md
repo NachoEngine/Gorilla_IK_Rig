@@ -1,4 +1,4 @@
-# GorillaTag-Nacho-IK-Blender-Rig
+# GorillaTag-IK-Blender-Rig
 
 Gorilla Tag Animation Rig for Blender
 
