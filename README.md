@@ -2,7 +2,7 @@
 
 Gorilla Tag Animation Rig for Blender
 
-![image](https://github.com/NachoEngine/GorillaTag-Player-IK-Blender-Rig/assets/65086429/dababea3-9276-4027-b80f-beac89d910a1)
+![image]([https://github.com/NachoEngine/GorillaTag-Player-IK-Blender-Rig/assets/65086429/dababea3-9276-4027-b80f-beac89d910a1](https://github.com/NachoEngine/GorillaTag-Player-IK-Blender-Rig/blob/main/Screenshot%202023-08-31%20024027.png))
 
 
 Made in Blender 3.6.2
