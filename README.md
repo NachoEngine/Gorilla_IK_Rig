@@ -15,6 +15,16 @@ This Blender file includes:
 * Customizable Player Colors
 * Custom Shader to easily swap between game mode textures
 * NEW GorillaTag name tag text object
+
+
+### How to import into a blender map file
+* Open the Blender file with the maps
+* Go to "File" then "Append"
+* open the GorillaTag-IK-Rig.blend
+* Go into the Collections folder
+* Select the Gorilla_IK_Rig
+* Then click append
+
 ### Not for playermodel rigging
 use this instead: [PlayerModel Rig Template.blend]
 
