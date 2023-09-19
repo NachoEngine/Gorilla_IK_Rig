@@ -19,11 +19,11 @@ This Blender file includes:
 
 ### How to import the gorilla into a map
 * Open a Blender Project that has maps
-* Go to "File" then "Append"
-* open the GorillaTag-IK-Rig.blend
-* Go into the Collections folder
-* Select the Gorilla_IK_Rig
-* Then click append
+* Go to "File" > "Append"
+* open the "GorillaTag-IK-Rig.blend" file
+* Inside, open the "Collections" folder
+* Choose "Gorilla_IK_Rig" 
+* Then click "Append"
 
 ### Not for playermodel rigging
 use this instead: [PlayerModel Rig Template.blend]
