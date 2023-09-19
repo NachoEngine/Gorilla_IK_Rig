@@ -17,8 +17,8 @@ This Blender file includes:
 * NEW GorillaTag name tag text object
 
 
-### How to import into a blender map file
-* Open the Blender file with the maps
+### How to import the gorilla into a map
+* Open a Blender Project that has maps
 * Go to "File" then "Append"
 * open the GorillaTag-IK-Rig.blend
 * Go into the Collections folder
