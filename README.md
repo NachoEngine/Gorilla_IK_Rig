@@ -18,7 +18,7 @@ This Blender file includes:
 
 
 ### How to import the gorilla into a map
-* Open a Blender Project that has maps
+* Open a Blender Project that has the maps
 * Go to "File" > "Append"
 * open the "GorillaTag-IK-Rig.blend" file
 * Inside, open the "Collections" folder
