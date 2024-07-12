@@ -1,6 +1,6 @@
-# GorillaTag-IK-Blender-Rig
+# Gorilla-IK-Rig
 
-### Gorilla Tag Animation Rig for Blender
+### A Gorilla Animation Rig for Blender
 
 <div align="center">
  <img src="https://github.com/NachoEngine/GorillaTag-Player-IK-Blender-Rig/blob/main/blender_gorilla_readmeimage.png?raw=true" width=70% height=70%</img><br>
